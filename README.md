@@ -4,7 +4,7 @@
 
 目前在百度搜索策略部参与 **100B 级 MoE 搜索大模型**的预训练与中训练，希望让大模型训练更高效、更可靠。
 
-[个人主页](https://ben3892.github.io/) · [简历](https://ben3892.github.io/cv/) · [Google Scholar](https://scholar.google.com/citations?user=hUOpBWsAAAAJ) · [邮件联系](mailto:jianganyuan@link.cuhk.edu.cn)
+[个人主页](https://ben3892.github.io/)· [Google Scholar](https://scholar.google.com/citations?user=hUOpBWsAAAAJ) · [邮件联系](mailto:jianganyuan@link.cuhk.edu.cn)
 
 ## 工作经历
 
