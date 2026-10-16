@@ -28,13 +28,6 @@
 | [数学与代码数据合成—过滤—评测闭环](https://ben3892.github.io/portfolio/math-code-data-pipeline/) | 结合知识点驱动合成、分领域过滤和错误归因；代表性实验中，MATH 中等难度提升约 **1 个百分点**，代码 **Pass@128 从 0.77 提升至 0.83**。 |
 | [搜索 Agent 多跳推理数据合成](https://ben3892.github.io/portfolio/search-agent-data-synthesis/) | 建立“检索构建—图上采样—轨迹合成—质量控制—能力评测”流程，自建原子能力 Benchmark，并结合后训练 SFT 与 BrowseComp 评估在线搜索能力。 |
 
-## 研究成果
-
-**[Let the Data Decide: Supervision Analysis, Capability Trade-offs, and Adaptive Objective Routing in Continued Pre-Training via Off-Policy Distillation](https://arxiv.org/abs/2607.16246)**
-
-arXiv 预印本，2026。
-
-主导研究思路、实验设计、实现与评估，研究持续预训练中不同监督信号带来的能力收益与权衡，探索数据驱动的自适应训练目标路由。
 
 ## 教育经历
 
