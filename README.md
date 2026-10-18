@@ -25,7 +25,7 @@
 | 项目 | 主要工作与成果 |
 | --- | --- |
 | [大模型蒸馏目标设计与规模化验证](https://ben3892.github.io/portfolio/llm-distillation-objectives/) | 比较 Forward KL 与 NTP 的领域差异，验证领域条件目标路由；进一步使用 1B Proxy 模型搜索 Top-k、Temperature 与损失权重等蒸馏配置。 |
-| [数学与代码数据合成—过滤—评测闭环](https://ben3892.github.io/portfolio/math-code-data-pipeline/) | 结合知识点驱动合成、分领域过滤和错误归因；代表性实验中，MATH 中等难度提升约 **1 个百分点**，代码 **Pass@128 从 0.77 提升至 0.83**。 |
+| [数学与代码数据合成—过滤—评测闭环](https://ben3892.github.io/portfolio/math-code-data-pipeline/) | 结合知识点驱动合成、分领域过滤和错误归因。｜
 | [搜索 Agent 多跳推理数据合成](https://ben3892.github.io/portfolio/search-agent-data-synthesis/) | 建立“检索构建—图上采样—轨迹合成—质量控制—能力评测”流程，自建原子能力 Benchmark，并结合后训练 SFT 与 BrowseComp 评估在线搜索能力。 |
 
 
