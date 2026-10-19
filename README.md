@@ -24,8 +24,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ben3892&amp;theme=github-compact&amp;hide_border=true&amp;area=true" />
-  <img width="100%" alt="Ben3892 GitHub contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=Ben3892&amp;bg_color=ffffff&amp;color=24292f&amp;line=0969da&amp;point=0969da&amp;area_color=ddf4ff&amp;area=true&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-activity-dark.svg" />
+  <img width="100%" alt="Ben3892 GitHub contribution activity over the last 31 days" src="assets/github-activity.svg" />
 </picture>
 
 ## My Favorite Tools and Technologies
@@ -90,10 +90,10 @@
 
 ## Contribution Snake
 
-<!-- .github/workflows/snake.yml 每天生成动画并发布到 output 分支；首次推送到 main 后自动生成。 -->
+<!-- .github/workflows/snake.yml 每天更新 assets 中的活跃度图和贡献动画。 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ben3892/Ben3892/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" alt="Animated snake following Ben3892's GitHub contribution calendar" src="https://raw.githubusercontent.com/Ben3892/Ben3892/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" alt="Animated snake following Ben3892's GitHub contribution calendar" src="assets/github-contribution-grid-snake.svg" />
 </picture>
 
 欢迎围绕大模型训练、知识蒸馏、预训练数据与可解释性交流：**[jianganyuan@link.cuhk.edu.cn](mailto:jianganyuan@link.cuhk.edu.cn)**。
