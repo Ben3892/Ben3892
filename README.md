@@ -17,6 +17,8 @@
   &nbsp;/&nbsp;
   <a href="#开源实现">开源实现</a>
   &nbsp;/&nbsp;
+  <a href="#chatgpt-研究工具">ChatGPT 研究工具</a>
+  &nbsp;/&nbsp;
   <a href="#工作与教育">工作与教育</a>
 </p>
 
@@ -68,6 +70,11 @@
 - **验证范围**：完整 GPU 链路需在目标环境验证。
 
 近期合并：[AIME 判分与 pass@k · 2026-11-20](https://github.com/Ben3892/data_evaluation_loop/pull/2) · [A800 验收脚本与 Megatron RSI 接入 · 2026-11-23](https://github.com/Ben3892/nano_model_experiment_framework/pull/2)。
+
+## ChatGPT 研究工具
+
+- [大模型训练与 Case 分析](https://chatgpt.com/skills?skill_id=6b0934f8e364819187111fbff94f0f4b) · 上传训练日志或两组评测结果，先看指标变化，再并排比较同一题的多次作答。例如，找出蒸馏后答对次数变少的题，定位模型提出正确候选、随后又改错的原句。
+- [设计评审 · 一问一图](https://chatgpt.com/skills?skill_id=6b093aa3b11c8191bfd48908fa8f2a11) · 把论文、GitHub 仓库或设计文档中的关键问题画成图。例如，用一条训练样本串起论文中的方法和仓库里的调用路径，每张图附对应章节或代码位置。
 
 ## 工作与教育
 
